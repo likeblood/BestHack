@@ -1,0 +1,5 @@
+numpy - pip
+pandas - pip
+plotly - pip
+matplotlib - pip
+sklearn - pip
