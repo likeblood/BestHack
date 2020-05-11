@@ -1,0 +1,4 @@
+pandas - pip
+numpy - pip
+plotly - pip
+matplotlib - pip
