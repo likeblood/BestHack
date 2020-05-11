@@ -1,2 +1,2 @@
 # BestHack
- BestHack 2020
+ BestHack 2020 Gusi
